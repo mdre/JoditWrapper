@@ -1,2 +1,2 @@
-# JoeditWrapper
-Joedit Wrapper for Vaadin 14+
+# JoditWrapper
+Jodit Wrapper for Vaadin 14+
